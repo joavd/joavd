@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+![JoaoAVDuarte's views](https://gpvc.arturio.dev/JoaoAVDuarte)
+
 
 <!--
 **JoaoAVDuarte/JoaoAVDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
