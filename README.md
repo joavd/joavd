@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hey there, welcome to my profile! 👋
 
-![JoaoAVDuarte's views](https://gpvc.arturio.dev/JoaoAVDuarte)
+I'm a Junior Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications. Currently I'm doing an Internship at [VivaDrive](https://vivadrive.io/) in Warsaw and having a blast! After I'll be looking to get hired at a place where I can display my skills and keep improving 🏹🎯
 
+
+### Some things I'm interested about
+
+* Historical European Martial Arts 🤺
+* Reenacting ⚔️🛡️
+* Videogames 🎮
+* Technology 💻
 
 <!--
 **JoaoAVDuarte/JoaoAVDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
