@@ -1,6 +1,6 @@
 ## Hey there, welcome to my profile! 👋
 
-I'm a Junior Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications. Currently doing an Internship at [VivaDrive](https://vivadrive.io/) in Warsaw and having a blast!
+I'm a Junior Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications. Currently on the verge of starting a new challenge!
 
 
 ### Some things I'm interested about
