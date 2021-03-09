@@ -5,7 +5,7 @@ I'm a Junior Developer and Game Programmer from Portugal with industry experienc
 
 ### Some things I'm interested in
 
-Historical European Martial Arts 🤺 | Reenacting ⚔️🛡️ | Videogames 🎮 | Technology 💻 | FOSS and Privacy👨‍💻
+Historical European Martial Arts 🤺 || Reenacting ⚔️🛡️ || Videogames 🎮 || Technology 💻 || FOSS and Privacy 👨‍💻
 
 <!--
 **JoaoAVDuarte/JoaoAVDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
