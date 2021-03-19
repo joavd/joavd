@@ -1,7 +1,6 @@
 ## Hey there, welcome to my profile! 👋
 
-I'm a Junior Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications. Currently on the verge of starting a new challenge!
-
+I'm a Junior Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications. Currently working for [Blue Prism](https://www.blueprism.com/) and having a great time learning a lot of new stuff!
 
 ### Some things I'm interested in
 
