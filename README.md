@@ -1,22 +1,10 @@
-## Hey there, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
+<h2 align="center">Hey there, I'm João! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></h2>
 
-I'm a Software Developer and Game Programmer from Portugal with industry experience in building and designing videogames and applications.
+<p align="center">A Software Developer and Game Programmer with experience in building and designing videogames and applications.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joavd&label=Profile%20views&color=0e75b6&style=flat" alt="joavd" /> </p>
 
-### Some things I'm interested in
+<h3 align="center">Some things I'm interested in:</h3>
+<p align="center">Historical European Martial Arts 🤺 | Reenacting ⚔️🛡️ | Videogames 🎮 | Technology 💻 | FOSS and Privacy 👨‍💻</p>
 
-Historical European Martial Arts 🤺 || Reenacting ⚔️🛡️ || Videogames 🎮 || Technology 💻 || FOSS and Privacy 👨‍💻
 
-<!--
-**JoaoAVDuarte/JoaoAVDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
