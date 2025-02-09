@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joavd&label=Profile%20views&color=0e75b6&style=flat" alt="joavd" /> </p>
 
 <h3 align="center">Some things I'm interested in:</h3>
-<p align="center">Historical European Martial Arts 🤺 | Reenacting ⚔️🛡️ | Videogames 🎮 | Technology 💻 | FOSS and Privacy 👨‍💻</p>
+<p align="center">Technology 💻 | Historical European Martial Arts 🤺 | Cruises 🚢 | Videogames 🎮</p>
 
 
 
